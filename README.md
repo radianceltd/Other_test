@@ -1,3 +1,3 @@
-# flutterappone
+# appone
 
-A new Flutter application.
+A new  application.
