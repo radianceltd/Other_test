@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38725d6f-8e6c-4ffe-90af-44da71666759" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/chapter4/lesson4.4.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/chapter4/lesson4.3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/chapter4/lesson4.3.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,20 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/chapter4/lesson4.1.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="36" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/chapter4/lesson4.3.dart">
+        <entry file="file://$PROJECT_DIR$/lib/chapter4/lesson4.4.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="74" column="18" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+            <state relative-caret-position="319">
+              <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -57,6 +48,7 @@
         <option value="$PROJECT_DIR$/lib/chapter4/lesson4.1.dart" />
         <option value="$USER_HOME$/Desktop/DesktopFile/20200511/tmw023证书/public-key.pem" />
         <option value="$PROJECT_DIR$/lib/chapter4/lesson4.3.dart" />
+        <option value="$PROJECT_DIR$/lib/chapter4/lesson4.4.dart" />
       </list>
     </option>
   </component>
@@ -70,16 +62,18 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="537" />
+    <option name="x" value="510" />
     <option name="y" value="23" />
     <option name="width" value="1305" />
-    <option name="height" value="1052" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,8 +107,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,11 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Flutter.lesson4.3.dart">
-    <configuration name="lesson36.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/lib/chapter3/lesson36.dart" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Flutter.lesson4.4.dart">
     <configuration name="lesson37.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/lib/chapter3/lesson37.dart" />
       <method v="2" />
@@ -164,17 +152,21 @@
       <option name="filePath" value="$PROJECT_DIR$/lib/chapter4/lesson4.3.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="lesson4.4.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/chapter4/lesson4.4.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Flutter.lesson4.4.dart" />
         <item itemvalue="Flutter.lesson4.3.dart" />
         <item itemvalue="Flutter.lesson4.1.dart" />
         <item itemvalue="Flutter.lesson38.dart" />
         <item itemvalue="Flutter.lesson37.dart" />
-        <item itemvalue="Flutter.lesson36.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -192,11 +184,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="537" y="23" width="1305" height="1052" extended-state="0" />
+    <frame x="608" y="23" width="1305" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.38638163" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.39271575" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -204,9 +196,9 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.32987553" />
-      <window_info anchor="bottom" id="Run" order="1" weight="0.328125" />
+      <window_info active="true" anchor="bottom" id="Run" order="1" visible="true" weight="0.32780084" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.328125" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
@@ -218,6 +210,17 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Flutter Performance" order="5" weight="0.3298351" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/chapter4/lesson4.1.dart</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.packages">
@@ -344,17 +347,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/rsa_public.pem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="3" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/chapter4/lesson4.1.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="36" selection-end-column="10" />
+        <state relative-caret-position="182">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/chapter4/lesson4.3.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="74" column="18" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+        <state relative-caret-position="-120">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/chapter4/lesson4.4.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
         </state>
       </provider>
     </entry>
